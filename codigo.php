@@ -117,7 +117,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				  </button>
 					<div class="logo grid">
 						<div class="grid__item color-3">
-							<h1><a class="link link--nukun" href="index.html"><i></i>INFI<span>R</span>MARY</a></h1>
+							<h1><a class="link link--nukun" href="index.php"><i></i>INFI<span>R</span>MARY</a></h1>
 						</div>
 					</div>
 				</div>
@@ -126,11 +126,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="collapse navbar-collapse nav-wil links" id="bs-example-navbar-collapse-1">
 					<nav class="menu menu--horatio">
 						<ul class="nav navbar-nav menu__list">
-							<li class="menu__item "><a href="index.html" class="menu__link">Home</a></li>
-							<li class="menu__item"><a href="about.html" class="menu__link">About</a></li> 
-							<li class="menu__item menu__item--current"><a href="codes.html" class="menu__link">Short Codes</a></li> 
-							<li class="menu__item"><a href="gallery.html" class="menu__link">Gallery</a></li> 
-							<li class="menu__item "><a href="contact.html" class="menu__link">Contact</a></li>
+							<li class="menu__item "><a href="index.php" class="menu__link">Home</a></li>
+							<li class="menu__item"><a href="nosotros.php" class="menu__link">About</a></li>
+							<li class="menu__item menu__item--current"><a href="codigo.php" class="menu__link">Short Codes</a></li>
+							<li class="menu__item"><a href="galeria.php" class="menu__link">Gallery</a></li>
+							<li class="menu__item "><a href="contacto.php" class="menu__link">Contact</a></li>
 						</ul>
 					</nav>
 				</div>

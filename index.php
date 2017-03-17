@@ -8,6 +8,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html>
 
 <head>
+<?php
+
+require_once ('facebook_analytics.php');
+require_once ('analyticstracking.php');
+
+?>
     <title>Infirmary a Medical Category Flat Bootstrap Responsive Website Template | Home :: w3layouts</title>
     <!-- for-mobile-apps -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -154,7 +160,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				  </button>
                     <div class="logo grid">
                         <div class="grid__item color-3">
-                            <h1><a class="link link--nukun" href="index.html"><i></i>Va<span>Rf</span>ra</a></h1>
+                            <h1><a class="link link--nukun" href="index.php"><i></i>Va<span>Rf</span>ra</a></h1>
                         </div>
                     </div>
                 </div>
@@ -163,11 +169,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 <div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
                     <nav class="menu menu--horatio">
                         <ul class="nav navbar-nav menu__list">
-                            <li class="menu__item menu__item--current"><a href="index.html" class="menu__link">Inicio</a></li>
-                            <li class="menu__item"><a href="about.html" class="menu__link">Nosotros</a></li>
+                            <li class="menu__item menu__item--current"><a href="index.php" class="menu__link">Inicio</a></li>
+                            <li class="menu__item"><a href="nosotros.php" class="menu__link">Nosotros</a></li>
                             <li class="menu__item"><a href="tienda.php" class="menu__link">Tienda</a></li>
-                            <li class="menu__item"><a href="gallery.html" class="menu__link">Galería</a></li>
-                            <li class="menu__item"><a href="contact.html" class="menu__link">Contacto</a></li>
+                            <li class="menu__item"><a href="galeria.php" class="menu__link">Galería</a></li>
+                            <li class="menu__item"><a href="contacto.php" class="menu__link">Contacto</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -252,7 +258,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 <h3>Quienes somos ?</h3>
                 <br>
                 <h4>Somos una empresa líder dedicada al servicio. 25 años satisfaciendo las necesidades de nuestros clientes nos avalan</h4>
-                <br><a href="about.html" class="hvr-outline-out button2">Más información</a>
+                <br><a href="nosotros.php" class="hvr-outline-out button2">Más información</a>
                 <script>
                     // You can also use "$(window).load(function() {"
                     $(function() {
