@@ -148,7 +148,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<li class="menu__item"><a href="index.html" class="menu__link">Inicio</a></li>
 							<li class="menu__item"><a href="about.html" class="menu__link">Nosotros</a></li> 
 							<li class="menu__item menu__item--current"><a href="tienda.php" class="menu__link">Tienda</a></li> 
-							<li class="menu__item" ><a href="gallery.html" class="menu__link">Galéria</a></li> 
+							<li class="menu__item" ><a href="gallery.html" class="menu__link">Galería</a></li> 
 							<li class="menu__item"><a href="contact.html" class="menu__link">Contacto</a></li>
 						</ul>
 					</nav>
@@ -166,28 +166,30 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- gallery -->
 <div class="gallery">
 	<div class="container">
-		<h3 class="tittle">Tienda</h3><br><br><<br>
+		<h3 class="tittle">Tienda</h3><br><br><br>
 		        <div class="col-md-4 ind-gds text-center wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
                 <div class="team-img">
-                    <img class="img-responsive" src="images/pic4.jpg" alt=" " />
+                    <img class="img-responsive" src="images/oferta1.png" alt=" " />
                 </div>
-                <h4>Neu</h4>
-                <p>Dental Surgeon</p>
+                <h4>COMPRENSOR CON SISTEMA NEBULIZADOR</h4>
+                <p>SKU: D4087</p>
+                <br><a href="#book" class="hvr-outline-out button2 scroll">Cotiza el producto</a> 
             </div>
             <div class="col-md-4 ind-gds text-center wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
                 <div class="team-img">
-                    <img class="img-responsive" src="images/pic5.jpg" alt=" " />
+                    <img class="img-responsive" src="images/oferta2.png" alt=" " />
                 </div>
-                <h4>Dr. Thompson</h4>
-                <p>Cardiology</p>
-
+                <h4>COMPRENSOR NEBULIZADOR</h4>
+                <p>SKU: D4089</p>
+                <br><a href="#book" class="hvr-outline-out button2 scroll">Cotiza el producto</a> 
             </div>
             <div class="col-md-4 ind-gds text-center wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
                 <div class="team-img">
-                    <img class="img-responsive" src="images/pic6.jpg" alt=" " />
+                    <img class="img-responsive" src="images/oferta3.png" alt=" " />
                 </div>
-                <h4>Dr. Victoria</h4>
-                <p>Neurology</p>
+                <h4>NEBULIZADOR DUAL</h4>
+                <p>SKU: D4085</p>
+                <br><a href="#book" class="hvr-outline-out button2 scroll">Cotiza el producto</a> 
             </div>			
 		<div class="clearfix"> </div>		
 </div>
@@ -195,25 +197,27 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="container">
 		        <div class="col-md-4 ind-gds text-center wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
                 <div class="team-img">
-                    <img class="img-responsive" src="images/pic4.jpg" alt=" " />
+                    <img class="img-responsive" src="images/oferta4.png" alt=" " />
                 </div>
-                <h4>Neu</h4>
-                <p>Dental Surgeon</p>
+                <h4>NEBULIZADOR ECONÓMICO</h4>
+                <p>SKU: D4083</p>
+                <br><a href="#book" class="hvr-outline-out button2 scroll">Cotiza el producto</a> 
             </div>
             <div class="col-md-4 ind-gds text-center wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
                 <div class="team-img">
-                    <img class="img-responsive" src="images/pic5.jpg" alt=" " />
+                    <img class="img-responsive" src="images/oferta5.png" alt=" " />
                 </div>
-                <h4>Dr. Thompson</h4>
-                <p>Cardiology</p>
-
+                <h4>NEBULIZADOR INALÁMBRICO</h4>
+                <p>SKU: D4086</p>
+                <br><a href="#book" class="hvr-outline-out button2 scroll">Cotiza el producto</a> 
             </div>
             <div class="col-md-4 ind-gds text-center wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
                 <div class="team-img">
-                    <img class="img-responsive" src="images/pic6.jpg" alt=" " />
+                    <img class="img-responsive" src="images/oferta6.png" alt=" " />
                 </div>
-                <h4>Dr. Victoria</h4>
-                <p>Neurology</p>
+                <h4>NEBULIZADOR PARA NIÑOS</h4>
+                <p>SKU: D4088</p><br>
+                <a href="#book" class="hvr-outline-out button2 scroll">Cotiza el producto</a> 
             </div>			
 		<div class="clearfix"> </div>		
 </div>
@@ -221,25 +225,27 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="container">
 		        <div class="col-md-4 ind-gds text-center wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
                 <div class="team-img">
-                    <img class="img-responsive" src="images/pic4.jpg" alt=" " />
+                    <img class="img-responsive" src="images/oferta7.png" alt=" " />
                 </div>
-                <h4>Neu</h4>
-                <p>Dental Surgeon</p>
+                <h4>NEBULIZADOR PRÁCTICO</h4>
+                <p>SKU: D4084</p><br>
+                <a href="#book" class="hvr-outline-out button2 scroll">Cotiza el producto</a> 
             </div>
             <div class="col-md-4 ind-gds text-center wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
                 <div class="team-img">
-                    <img class="img-responsive" src="images/pic5.jpg" alt=" " />
+                    <img class="img-responsive" src="images/oferta1.png" alt=" " />
                 </div>
-                <h4>Dr. Thompson</h4>
-                <p>Cardiology</p>
-
+                <h4>COMPRENSOR CON SISTEMA NEBULIZADOR</h4>
+                <p>SKU: D4087</p><br>
+                <a href="#book" class="hvr-outline-out button2 scroll">Cotiza el producto</a> 
             </div>
             <div class="col-md-4 ind-gds text-center wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
                 <div class="team-img">
-                    <img class="img-responsive" src="images/pic6.jpg" alt=" " />
+                    <img class="img-responsive" src="images/oferta2.png" alt=" " />
                 </div>
-                <h4>Dr. Victoria</h4>
-                <p>Neurology</p>
+                <h4>COMPRENSOR NEBULIZADOR</h4>
+                <p>SKU: D4089</p><br>
+                <a href="#book" class="hvr-outline-out button2 scroll">Cotiza el producto</a> 
             </div>			
 		<div class="clearfix"> </div>	
 		<br><br><br><br>
@@ -285,7 +291,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 </ul>
             </div>
             <div class="col-md-6 contact-left wow fadeIn animated animated" data-wow-delay="0.1s" data-wow-duration="2s">
-                <h2>Visita nuestas paginas</h2>
+                <h2>Visita nuestras paginas</h2>
                 <div class="strip"></div>
                 <p class="para"><a href="www.varfra.com">www.varfra.com</a> <br><br>
                     <a href="www.todoenequipomedico.com">www.todoenequipomedico.com</a>
